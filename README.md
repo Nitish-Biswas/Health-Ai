@@ -59,4 +59,4 @@ To run project, run the following command
 
 ## Demo
 
-[Click Here](https://youtu.be/1OgNuctJhkQ?si=V7bNxPw7UcC0FYlK) to watch the project demonstration.
+[Click Here](https://www.youtube.com/watch?v=aW8O7aa76z8) to watch the project demonstration.
